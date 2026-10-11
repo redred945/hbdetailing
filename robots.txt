@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+# Site de démarchage : non indexable (meta robots noindex sur chaque page).
+# À la mise en ligne définitive : retirer `noindex` et `robots` de site.config.mjs, renseigner `domain`, relancer `npm run regen`.

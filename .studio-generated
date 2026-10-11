@@ -1,0 +1,23 @@
+{
+  "port": 4970,
+  "preset": "habitacle",
+  "sections": [
+    "cta/band",
+    "faq/accordion",
+    "footer/columns",
+    "habitacle/actions",
+    "habitacle/couture",
+    "habitacle/devis",
+    "habitacle/hero",
+    "habitacle/legal",
+    "habitacle/photos",
+    "habitacle/prestations",
+    "habitacle/tarifs",
+    "habitacle/zones",
+    "header/pill",
+    "page/hero",
+    "process/steps",
+    "stats/strip"
+  ],
+  "generatedAt": "2026-10-11T15:14:38.515Z"
+}
